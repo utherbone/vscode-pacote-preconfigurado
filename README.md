@@ -1,1 +1,1 @@
-Va em releases e vaixe a versão mais recente
+Va em releases e baixe a versão mais recente
